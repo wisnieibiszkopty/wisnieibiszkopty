@@ -1,7 +1,5 @@
 ## Hi there, I'm Kamil 👋
 
-I’m a final-year student interested in backend technologies. I’m also looking for potential job opportunities in the near future.
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wisnieibiszkopty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -11,11 +9,6 @@ I’m a final-year student interested in backend technologies. I’m also lookin
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-# 💻 Want to learn
-- Rust
-- Go
-
 
 <!--
 **wisnieibiszkopty/wisnieibiszkopty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
