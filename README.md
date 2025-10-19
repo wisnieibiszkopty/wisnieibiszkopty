@@ -1,6 +1,6 @@
 Angular/C# developer
 
-I'm currentyly learning cybersecurity at university
+I'm currently learning cybersecurity
 
 I'm also interested in self-hosting, IoT and computer graphics
 
